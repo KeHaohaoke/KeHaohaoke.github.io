@@ -12,7 +12,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@main
-
       - name: Use Node.js 17.8.x
         uses: actions/setup-node@main
         with:
@@ -21,6 +20,10 @@ jobs:
         run: |
           npm install 
           npm run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build # The folder the action should deploy. 
 
       #- name: Deploy to netlify
       #  uses: netlify/actions/cli@master
