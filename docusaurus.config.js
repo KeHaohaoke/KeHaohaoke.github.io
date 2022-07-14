@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // @ts-ignore
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DevStream',
+  title: 'DevStream1',
   tagline: 'The Definitive DevOps Toolchain Manager',
-  url: 'KeHaohaoke.github.io',
+  url: 'https://www.kehaohaoke.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
