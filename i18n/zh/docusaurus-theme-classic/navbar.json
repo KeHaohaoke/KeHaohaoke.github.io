@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "DevStream",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "文档",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Community": {
+    "message": "社区",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Video": {
+    "message": "视频",
+    "description": "Navbar item with label Video"
+  },
+  "item.label.Archive": {
+    "message": "归档",
+    "description": "Navbar item with label Archive"
+  },
+  "item.label.Tags": {
+    "message": "博客标签分类",
+    "description": "Navbar item with label Tags"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
