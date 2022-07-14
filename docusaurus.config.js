@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DevStream',
-  tagline: 'DevStream: the open-source DevOps toolchain manager (DTM)',
+  tagline: 'The Definitive DevOps Toolchain Manager',
   url: 'https://www.devstream.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
