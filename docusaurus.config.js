@@ -98,17 +98,17 @@ const config = {
             docsPluginId: 'community',
           },
           {
-            href: 'https://blog.devstream.io',
+            to: 'https://blog.devstream.io',
             label: 'Blog',
             position: 'left',
           },
           {
-            href: 'https://medium.com/devstream',
+            to: 'https://medium.com/devstream',
             position: 'left',
             label: 'Medium',
           },
           {
-            href: 'https://github.com/devstream-io/devstream',
+            to: 'https://github.com/devstream-io/devstream',
             label: 'GitHub',
             position: 'left',
           },
@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                href: 'https://docs.devstream.io',
+                to: 'https://docs.devstream.io',
               },
             ],
           },
@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'Slack',
-                href: 'https://join.slack.com/t/devstream-io/shared_invite/zt-16tb0iwzr-krcFGYRN7~Vv1suGZjdv4w',
+                to: 'https://join.slack.com/t/devstream-io/shared_invite/zt-16tb0iwzr-krcFGYRN7~Vv1suGZjdv4w',
               },
             ],
           },
@@ -144,11 +144,11 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                href: 'https://blog.devstream.io',
+                to: 'https://blog.devstream.io',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/devstream-io/devstream',
+                to: 'https://github.com/devstream-io/devstream',
               },
             ],
           },
