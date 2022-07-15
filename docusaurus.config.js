@@ -86,7 +86,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://docs.devstream.io',
+            to: 'https://docs.devstream.io',
             position: 'left',
             label: 'Docs',
           },
